@@ -229,7 +229,7 @@ df_info_client, df_pret_client, df_info_voisins, df_pret_voisins, \
 # How to use
 # ====================================================================
 with st.expander("How to Use this Platform"):
-    st.write(Path("Readme.md").read_text())
+    st.write(Path("README.md").read_text())
 # ====================================================================
 # CHOIX DU CLIENT
 # ====================================================================
