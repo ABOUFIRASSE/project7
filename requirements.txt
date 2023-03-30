@@ -1,0 +1,7 @@
+pandas
+plotly
+streamlit
+shap
+scikit_learn
+lightgbm
+seaborn
