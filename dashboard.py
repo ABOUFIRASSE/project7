@@ -6,11 +6,7 @@ links:
     https://www.bse.u-bordeaux.fr/en/membres/badr-aboufarasse/
     
 Source: 
-    https://github.com/ABOUFIRASSE/OCR_P7_Dashboard
-    
-Local URL: http://localhost:8501
-Network URL: http://192.168.1.20:8501
-
+    https://github.com/ABOUFIRASSE/OCR_P7_Dashboard   
 """
 
 # ====================================================================
