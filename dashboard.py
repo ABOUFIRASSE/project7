@@ -4,9 +4,8 @@
 links: 
     https://www.linkedin.com/in/aboufarasse-badr-ab711018/
     https://www.bse.u-bordeaux.fr/en/membres/badr-aboufarasse/
-    
 Source: 
-    https://github.com/ABOUFIRASSE/OCR_P7_Dashboard   
+    https://github.com/ABOUFIRASSE/project7   
 """
 
 # ====================================================================
